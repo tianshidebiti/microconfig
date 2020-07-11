@@ -17,8 +17,8 @@ eureka:
     defaultZone: http://localhost:7001/eureka
 
 info:
-  app.name: microcloud-config-client-dev2
-  company.name: enjoy-dev2
+  app.name: microcloud-config-client-dev3
+  company.name: enjoy-dev3
 
 ---
 
